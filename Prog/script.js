@@ -17,9 +17,7 @@ window.onload = function() {
 // document.addEventListener('click', () => {
 //     audio.pause();
 // });
-/*--------------------
-Vars
---------------------*/
+
 let progress = 50
 let startX = 0
 let active = 0
