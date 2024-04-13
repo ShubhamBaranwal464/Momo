@@ -184,6 +184,11 @@ body {
     --fill: #fff;
     width: 35px;
     height: 35px;
+  
+  }
+
+  .social svg:hover{
+    background-color: red;
   }
   
   .cursor {
